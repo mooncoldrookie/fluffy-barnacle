@@ -11,6 +11,7 @@ public class Hello {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
         System.out.println("Hello World!");
+        System.out.println("master code line 1");
         System.out.println("dev01 code line 1");
     }
 }
